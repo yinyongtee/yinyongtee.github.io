@@ -71,7 +71,7 @@ header h1 {
 
 .coolwelcome {
   text-shadow: 2px 2px 0 #FF7F50;
-  font-size: 5rem
+  font-size: 100px
   text-align: center;
 }
 }
@@ -87,7 +87,7 @@ header p {
 }
 
 section h1 {
-  font-size: 1.8em;
+  font-size: 5em;
   line-height: 1em;
   margin-bottom: .6em;
 }
